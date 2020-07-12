@@ -1,0 +1,4 @@
+geospark
+sklearn
+geopandas
+findspark
